@@ -1,0 +1,9 @@
+body{
+    margin-top: 2%;
+    background-image :url("/assets/img/bcg.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    margin-top: 15%;
+}
